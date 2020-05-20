@@ -1,0 +1,37 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="includedRules">
+      <set>
+        <option value="squid:CallToDeprecatedMethod" />
+        <option value="squid:EmptyStatementUsageCheck" />
+        <option value="squid:MissingDeprecatedCheck" />
+        <option value="squid:ModifiersOrderCheck" />
+        <option value="squid:S00108" />
+        <option value="squid:S00117" />
+        <option value="squid:S1065" />
+        <option value="squid:S1066" />
+        <option value="squid:S109" />
+        <option value="squid:S1148" />
+        <option value="squid:S1172" />
+        <option value="squid:S1197" />
+        <option value="squid:S135" />
+        <option value="squid:S1450" />
+        <option value="squid:S1481" />
+        <option value="squid:S1659" />
+        <option value="squid:S1845" />
+        <option value="squid:S1854" />
+        <option value="squid:S2094" />
+        <option value="squid:S3358" />
+        <option value="squid:S3516" />
+        <option value="squid:S818" />
+        <option value="squid:SE2006" />
+        <option value="squid:SE2008" />
+        <option value="squid:TrailingCommentCheck" />
+        <option value="squid:UndocumentedApi" />
+        <option value="squid:UnusedPrivateMethod" />
+        <option value="squid:UselessImportCheck" />
+      </set>
+    </option>
+  </component>
+</application>
