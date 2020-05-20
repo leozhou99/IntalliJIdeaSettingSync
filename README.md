@@ -1,0 +1,2 @@
+# IntalliJIdeaSettingSync
+IntalliJIdeaSettingSync
