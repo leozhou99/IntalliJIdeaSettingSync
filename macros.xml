@@ -1,9 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="Format&amp;Build">
-      <action id="OptimizeImports" />
-      <action id="ReformatCode" />
-      <action id="CompileDirty" />
-    </macro>
-  </component>
-</application>
