@@ -8,6 +8,8 @@
     <option name="token" value="" />
     <option name="wordMap">
       <map>
+        <entry key="find" value="查询" />
+        <entry key="getlist" value="查询列表" />
         <entry key="init" value="初始化" />
       </map>
     </option>
