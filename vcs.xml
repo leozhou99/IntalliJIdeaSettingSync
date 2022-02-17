@@ -38,9 +38,13 @@
           <option name="url" value="http://dev.dizsoft.com:3002/scm/otc/dizsoftservice.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/guchengwuyue/yshopmall" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\" />
+    <option name="cloneParentDir" value="E:\onlineProject" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
