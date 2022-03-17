@@ -1,18 +1,6 @@
 <application>
   <component name="easyJavadoc">
-    <option name="appId" value="" />
     <option name="author" value="liang" />
-    <option name="secretId" value="" />
-    <option name="secretKey" value="" />
     <option name="simpleFieldDoc" value="true" />
-    <option name="token" value="" />
-    <option name="wordMap">
-      <map>
-        <entry key="find" value="查询" />
-        <entry key="getlist" value="查询列表" />
-        <entry key="init" value="初始化" />
-        <entry key="promotion" value="促销" />
-      </map>
-    </option>
   </component>
 </application>
