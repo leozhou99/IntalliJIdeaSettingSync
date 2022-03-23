@@ -1,11 +1,8 @@
 <application>
   <component name="easyJavadoc">
     <option name="appId" value="" />
-    <option name="author" value="zhouliang" />
-    <option name="methodReturnType" value="code" />
     <option name="secretId" value="" />
     <option name="secretKey" value="" />
-    <option name="simpleFieldDoc" value="true" />
     <option name="token" value="" />
     <option name="wordMap">
       <map>
