@@ -64,7 +64,7 @@
     </option>
     <option name="lastAction">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToKebabOrCamelCaseCaseAction" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToKebabOrSnakeCaseAction" />
       </UniversalActionModel>
     </option>
   </component>
