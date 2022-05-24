@@ -8,6 +8,8 @@
       <map>
         <entry key="balance" value="抵用券" />
         <entry key="pageno" value="页码" />
+        <entry key="point" value="积分" />
+        <entry key="settle" value="结算" />
       </map>
     </option>
   </component>
