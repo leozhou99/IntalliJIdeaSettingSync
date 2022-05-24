@@ -7,6 +7,7 @@
     <option name="wordMap">
       <map>
         <entry key="balance" value="抵用券" />
+        <entry key="pageno" value="页码" />
       </map>
     </option>
   </component>
