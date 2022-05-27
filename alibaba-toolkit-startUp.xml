@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="D:/IdeaProjects/background-interface-service" startUpFlag="FIRST" />
     <entry projectPath="D:/IdeaProjects/background-service" startUpFlag="FIRST" />
     <entry projectPath="D:/IdeaProjects/biu" startUpFlag="FIRST" />
     <entry projectPath="D:/IdeaProjects/customer-service" startUpFlag="FIRST" />
