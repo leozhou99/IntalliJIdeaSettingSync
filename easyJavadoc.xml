@@ -1,6 +1,7 @@
 <application>
   <component name="easyJavadoc">
     <option name="appId" value="" />
+    <option name="author" value="zhouliang" />
     <option name="secretId" value="" />
     <option name="secretKey" value="" />
     <option name="token" value="" />
@@ -9,6 +10,7 @@
         <entry key="balance" value="抵用券" />
         <entry key="branchnum" value="配额" />
         <entry key="branchnumlog" value="配额日志" />
+        <entry key="depart" value="部门" />
         <entry key="pageno" value="页码" />
         <entry key="point" value="积分" />
         <entry key="settle" value="结算" />
