@@ -34,6 +34,10 @@
           <option name="url" value="http://dev.dizsoft.com:3002/scm/wah/shopxx_miniprogram_heryoos.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.dizsoft.com:3002/scm/otr/commissionservice.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/dev" />
