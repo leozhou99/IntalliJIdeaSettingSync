@@ -42,6 +42,10 @@
           <option name="url" value="http://dev.dizsoft.com:3002/scm/wah/int-serv.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.dizsoft.com:3002/scm/wah/fc-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/dev" />
