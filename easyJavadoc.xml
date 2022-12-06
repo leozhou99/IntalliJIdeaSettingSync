@@ -12,6 +12,7 @@
         <entry key="balance" value="抵用券" />
         <entry key="branchnum" value="配额" />
         <entry key="branchnumlog" value="配额日志" />
+        <entry key="consumer" value="消费者" />
         <entry key="depart" value="部门" />
         <entry key="pageno" value="页码" />
         <entry key="point" value="积分" />
