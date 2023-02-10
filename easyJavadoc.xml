@@ -4,6 +4,15 @@
     <option name="accessKeySecret" value="" />
     <option name="appId" value="" />
     <option name="author" value="zhouliang" />
+    <option name="projectWordMap">
+      <map>
+        <entry key="shopxx_miniprogram_heryoos">
+          <value>
+            <map />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="secretId" value="" />
     <option name="secretKey" value="" />
     <option name="token" value="" />
