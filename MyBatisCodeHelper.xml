@@ -1,10 +1,7 @@
 <application>
   <component name="MyBatisCodeHelper">
     <option name="profile">
-      <Profile>
-        <option name="theUsageCount" value="1666140836176" />
-        <option name="valid" value="true" />
-      </Profile>
+      <Profile />
     </option>
   </component>
 </application>
