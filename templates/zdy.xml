@@ -1,0 +1,18 @@
+<templateSet group="zdy">
+  <template name="nef" value="if(org.apache.commons.collections4.CollectionUtils.isNotEmpty($COLLECTION$)){&#10;    for ($ELEMENT_TYPE$ $VAR$ : $COLLECTION$) {&#10;        $END$&#10;    }&#10;}" description="非空遍历集合" toReformat="false" toShortenFQNames="true">
+    <variable name="COLLECTION" expression="variableOfType(&quot;java.util.Collection&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="ELEMENT_TYPE" expression="iterableComponentType(COLLECTION)" defaultValue="&quot;java.lang.Object&quot;" alwaysStopAt="true" />
+    <variable name="VAR" expression="suggestVariableName()" defaultValue="&quot;one&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="nefa" value="if ($ARRAY$ != null &amp;&amp; $ARRAY$.length &gt; 0) {&#10;    for ($ELEMENT_TYPE$ $VAR$ : $ARRAY$) {&#10;        $END$&#10;    }&#10;}" description="非空遍历数组" toReformat="true" toShortenFQNames="true">
+    <variable name="ARRAY" expression="arrayVariable()" defaultValue="" alwaysStopAt="true" />
+    <variable name="ELEMENT_TYPE" expression="iterableComponentType(ARRAY)" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

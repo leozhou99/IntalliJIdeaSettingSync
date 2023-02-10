@@ -1,8 +1,23 @@
 <application>
   <component name="easyJavadoc">
+    <option name="accessKeyId" value="" />
+    <option name="accessKeySecret" value="" />
+    <option name="appId" value="" />
     <option name="author" value="zhouliang" />
-    <option name="kdocAuthor" value="zhouliang" />
-    <option name="kdocSimpleFieldDoc" value="true" />
-    <option name="simpleFieldDoc" value="true" />
+    <option name="secretId" value="" />
+    <option name="secretKey" value="" />
+    <option name="token" value="" />
+    <option name="wordMap">
+      <map>
+        <entry key="balance" value="抵用券" />
+        <entry key="branchnum" value="配额" />
+        <entry key="branchnumlog" value="配额日志" />
+        <entry key="consumer" value="消费者" />
+        <entry key="depart" value="部门" />
+        <entry key="pageno" value="页码" />
+        <entry key="point" value="积分" />
+        <entry key="settle" value="结算" />
+      </map>
+    </option>
   </component>
 </application>

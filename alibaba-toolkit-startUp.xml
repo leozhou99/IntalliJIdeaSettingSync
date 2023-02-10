@@ -1,0 +1,27 @@
+<application>
+  <component name="TipsStore">
+    <entry projectPath="$USER_HOME$/IdeaProjects/dev/FUTU" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/dev/ac-job-service" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/dev/ac-message" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/dev/ac-mq" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/dev/ali-service" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/dev/back-service" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/dev/back-service-new" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/dev/commissionservice" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/dev/comprehensive-service" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/dev/customer-service" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/dev/fc-interface-mq" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/dev/fc-interface-service" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/dev/fc-job" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/dev/fc-job-service" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/dev/fc-service" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/dev/int-serv" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/dev/message" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/dev/messageservice" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/dev/setting" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/dev/shopminiapp" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/dev/shopxx_miniprogram_heryoos" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/online/rocketmq-clients-master" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/prod/shopminiapp" startUpFlag="FIRST" />
+  </component>
+</application>
