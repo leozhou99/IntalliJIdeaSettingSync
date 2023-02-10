@@ -1,0 +1,8 @@
+<application>
+  <component name="easyJavadoc">
+    <option name="author" value="zhouliang" />
+    <option name="kdocAuthor" value="zhouliang" />
+    <option name="kdocSimpleFieldDoc" value="true" />
+    <option name="simpleFieldDoc" value="true" />
+  </component>
+</application>
