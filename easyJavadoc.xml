@@ -11,6 +11,11 @@
             <map />
           </value>
         </entry>
+        <entry key="yshopmall">
+          <value>
+            <map />
+          </value>
+        </entry>
       </map>
     </option>
     <option name="secretId" value="" />
@@ -28,5 +33,7 @@
         <entry key="settle" value="结算" />
       </map>
     </option>
+    <option name="youdaoAppKey" value="" />
+    <option name="youdaoAppSecret" value="" />
   </component>
 </application>
