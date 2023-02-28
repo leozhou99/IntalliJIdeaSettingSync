@@ -11,11 +11,7 @@
             <map />
           </value>
         </entry>
-        <entry key="yshopmall">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="yshopmall" />
       </map>
     </option>
     <option name="secretId" value="" />
