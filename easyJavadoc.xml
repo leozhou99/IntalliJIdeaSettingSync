@@ -6,11 +6,17 @@
     <option name="author" value="zhouliang" />
     <option name="projectWordMap">
       <map>
-        <entry key="shopxx_miniprogram_heryoos">
+        <entry key="comprehensive-service">
           <value>
             <map />
           </value>
         </entry>
+        <entry key="integrate-service">
+          <value>
+            <map />
+          </value>
+        </entry>
+        <entry key="shopxx_miniprogram_heryoos" />
         <entry key="yshopmall" />
       </map>
     </option>
