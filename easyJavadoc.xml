@@ -6,12 +6,12 @@
     <option name="author" value="zhouliang" />
     <option name="projectWordMap">
       <map>
-        <entry key="comprehensive-service" />
-        <entry key="integrate-service">
+        <entry key="comprehensive-service">
           <value>
             <map />
           </value>
         </entry>
+        <entry key="integrate-service" />
         <entry key="shopxx_miniprogram_heryoos" />
         <entry key="yshopmall" />
       </map>
@@ -26,7 +26,8 @@
         <entry key="branchnumlog" value="配额日志" />
         <entry key="consumer" value="消费者" />
         <entry key="depart" value="部门" />
-        <entry key="pageno" value="页码" />
+        <entry key="pageno" value="当前页码" />
+        <entry key="pagesize" value="每页条数" />
         <entry key="point" value="积分" />
         <entry key="settle" value="结算" />
       </map>
