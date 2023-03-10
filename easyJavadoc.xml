@@ -11,8 +11,17 @@
             <map />
           </value>
         </entry>
+        <entry key="fc-interface-mq">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="integrate-service" />
-        <entry key="shopxx_miniprogram_heryoos" />
+        <entry key="shopxx_miniprogram_heryoos">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="yshopmall" />
       </map>
     </option>
