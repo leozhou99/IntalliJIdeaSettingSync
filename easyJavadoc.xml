@@ -6,7 +6,8 @@
     <option name="author" value="zhouliang" />
     <option name="projectWordMap">
       <map>
-        <entry key="comprehensive-service">
+        <entry key="comprehensive-service" />
+        <entry key="data-forward_new">
           <value>
             <map />
           </value>
