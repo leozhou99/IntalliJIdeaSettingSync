@@ -11,11 +11,7 @@
             <map />
           </value>
         </entry>
-        <entry key="data-forward_new">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="data-forward_new" />
         <entry key="fc-interface-mq" />
         <entry key="integrate-service" />
         <entry key="shopxx_miniprogram_heryoos" />
