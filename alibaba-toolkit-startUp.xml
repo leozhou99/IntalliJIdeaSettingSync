@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <entry projectPath="$USER_HOME$/IdeaProjects/dev/FUTU" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/dev/ac-job" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/IdeaProjects/dev/ac-job-service" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/IdeaProjects/dev/ac-message" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/IdeaProjects/dev/ac-mq" startUpFlag="FIRST" />
