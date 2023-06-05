@@ -29,6 +29,7 @@
         <entry key="branchnumlog" value="配额日志" />
         <entry key="consumer" value="消费者" />
         <entry key="depart" value="部门" />
+        <entry key="export" value="导出" />
         <entry key="get" value="获取" />
         <entry key="ordersn" value="订单编号" />
         <entry key="pageno" value="当前页码" />
