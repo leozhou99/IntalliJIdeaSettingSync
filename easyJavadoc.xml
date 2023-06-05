@@ -36,7 +36,6 @@
         <entry key="pagesize" value="每页条数" />
         <entry key="point" value="积分" />
         <entry key="settle" value="结算" />
-        <entry key="sn" value="订单编号" />
         <entry key="stock" value="库存" />
         <entry key="usercode" value="用户商城编号" />
       </map>
