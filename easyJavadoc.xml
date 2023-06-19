@@ -7,21 +7,21 @@
     <option name="projectWordMap">
       <map>
         <entry key="ac-message" />
-        <entry key="comprehensive-service" />
+        <entry key="comprehensive-service">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="data-forward_new" />
-        <entry key="fc-interface-mq">
-          <value>
-            <map />
-          </value>
-        </entry>
-        <entry key="fc-process">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="fc-interface-mq" />
+        <entry key="fc-process" />
         <entry key="integrate-service" />
         <entry key="shopxx_miniprogram_heryoos" />
-        <entry key="yshopmall" />
+        <entry key="yshopmall">
+          <value>
+            <map />
+          </value>
+        </entry>
       </map>
     </option>
     <option name="secretId" value="" />
