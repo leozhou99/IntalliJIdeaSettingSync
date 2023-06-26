@@ -17,11 +17,7 @@
         <entry key="fc-process" />
         <entry key="integrate-service" />
         <entry key="shopxx_miniprogram_heryoos" />
-        <entry key="yshopmall">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="yshopmall" />
       </map>
     </option>
     <option name="secretId" value="" />
