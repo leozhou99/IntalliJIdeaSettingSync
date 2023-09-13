@@ -4,6 +4,8 @@
     <option name="accessKeySecret" value="" />
     <option name="appId" value="" />
     <option name="author" value="zhouliang" />
+    <option name="googleKey" value="" />
+    <option name="microsoftKey" value="" />
     <option name="projectWordMap">
       <map>
         <entry key="ac-message" />
