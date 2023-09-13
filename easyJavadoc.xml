@@ -2,7 +2,7 @@
   <component name="easyJavadoc">
     <option name="accessKeyId" value="" />
     <option name="accessKeySecret" value="" />
-    <option name="appId" value="" />
+    <option name="appId" value="20230913001815242" />
     <option name="author" value="zhouliang" />
     <option name="googleKey" value="" />
     <option name="microsoftKey" value="" />
@@ -26,7 +26,8 @@
     </option>
     <option name="secretId" value="" />
     <option name="secretKey" value="" />
-    <option name="token" value="" />
+    <option name="token" value="TT5qXbU1krikDryHY5un" />
+    <option name="translator" value="百度翻译" />
     <option name="wordMap">
       <map>
         <entry key="balance" value="抵用券" />
@@ -43,6 +44,7 @@
         <entry key="settle" value="结算" />
         <entry key="stock" value="库存" />
         <entry key="usercode" value="用户商城编号" />
+        <entry key="voucher" value="优惠券" />
       </map>
     </option>
     <option name="youdaoAppKey" value="" />
