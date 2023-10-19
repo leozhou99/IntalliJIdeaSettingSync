@@ -8,6 +8,11 @@
     <option name="microsoftKey" value="" />
     <option name="projectWordMap">
       <map>
+        <entry key="ac-job">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="ac-message" />
         <entry key="ac-mq" />
         <entry key="comprehensive-service" />
