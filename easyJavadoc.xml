@@ -10,7 +10,11 @@
       <map>
         <entry key="ac-job" />
         <entry key="ac-message" />
-        <entry key="ac-mq" />
+        <entry key="ac-mq">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="comprehensive-service" />
         <entry key="data-forward_new" />
         <entry key="dataTransfer" />
