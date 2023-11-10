@@ -9,17 +9,9 @@
     <option name="projectWordMap">
       <map>
         <entry key="ac-job" />
-        <entry key="ac-message">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="ac-message" />
         <entry key="ac-mq" />
-        <entry key="comprehensive-service">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="comprehensive-service" />
         <entry key="data-forward_new" />
         <entry key="dataTransfer" />
         <entry key="deploymini_new" />
@@ -27,6 +19,11 @@
         <entry key="fc-process" />
         <entry key="integrate-service" />
         <entry key="shopxx_miniprogram_heryoos">
+          <value>
+            <map />
+          </value>
+        </entry>
+        <entry key="sse">
           <value>
             <map />
           </value>
