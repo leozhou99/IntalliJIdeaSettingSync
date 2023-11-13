@@ -5,6 +5,7 @@
     <option name="appId" value="20230913001815242" />
     <option name="author" value="zhouliang" />
     <option name="googleKey" value="" />
+    <option name="methodReturnType" value="doc" />
     <option name="microsoftKey" value="" />
     <option name="projectWordMap">
       <map>
@@ -23,18 +24,14 @@
             <map />
           </value>
         </entry>
-        <entry key="sse">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="sse" />
         <entry key="yshopmall" />
       </map>
     </option>
     <option name="secretId" value="" />
     <option name="secretKey" value="" />
     <option name="token" value="TT5qXbU1krikDryHY5un" />
-    <option name="translator" value="百度翻译" />
+    <option name="translator" value="微软免费翻译" />
     <option name="wordMap">
       <map>
         <entry key="balance" value="抵用券" />
