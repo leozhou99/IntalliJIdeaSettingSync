@@ -19,12 +19,21 @@
         <entry key="fc-interface-mq" />
         <entry key="fc-process" />
         <entry key="integrate-service" />
+        <entry key="leetcode">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="my_python">
           <value>
             <map />
           </value>
         </entry>
-        <entry key="shopxx_miniprogram_heryoos" />
+        <entry key="shopxx_miniprogram_heryoos">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="sse" />
         <entry key="yshopmall" />
       </map>
