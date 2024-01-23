@@ -2,5 +2,8 @@
   <component name="SmartInputBaseConfigState">
     <option name="chineseInputSourceName" value="百度拼音" />
     <option name="englishInputSourceName" value="ABC" />
+    <option name="showSwitchTipType" value="LANGUAGE" />
+    <option name="languageChangeWhenExit" value="中文" />
+    <option name="capsLockCaretColor" value="橙色" />
   </component>
 </application>
