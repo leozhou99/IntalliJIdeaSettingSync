@@ -12,7 +12,11 @@
         <entry key="ac-message" />
         <entry key="ac-mq" />
         <entry key="ana_test" />
-        <entry key="comprehensive-service" />
+        <entry key="comprehensive-service">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="data-forward_new" />
         <entry key="dataTransfer" />
         <entry key="deploymini_new" />
