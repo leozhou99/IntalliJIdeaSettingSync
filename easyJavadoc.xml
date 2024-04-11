@@ -28,11 +28,7 @@
           </value>
         </entry>
         <entry key="sse" />
-        <entry key="unique-code">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="unique-code" />
         <entry key="yshopmall" />
       </map>
     </option>
