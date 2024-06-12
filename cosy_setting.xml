@@ -30,6 +30,17 @@
         </option>
       </ChangeUserSettingParams>
     </option>
+    <option name="recentQueries">
+      <map>
+        <entry key="eureka-server|1822373447215059">
+          <value>
+            <list>
+              <option value="EurekaServer启动后node URL无法访问" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="showInlineAcceptTips" value="false" />
     <option name="showInlineCancelTips" value="false" />
     <option name="showInlinePartialAcceptTips" value="false" />
