@@ -57,6 +57,7 @@
     <entry projectPath="$USER_HOME$/onlineProjects/geektime-spring-family-master" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/onlineProjects/geektime-spring-family-master/Chapter 12/eureka-server" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/onlineProjects/geektime-spring-family-master/Chapter 12/eureka-waiter-service" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/onlineProjects/geektime-spring-family-master/Chapter 13/circuit-break-demo" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/onlineProjects/geektime-spring-family-master/Chapter 2" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/onlineProjects/yshopmall/yshopmall" startUpFlag="FIRST" />
   </component>
