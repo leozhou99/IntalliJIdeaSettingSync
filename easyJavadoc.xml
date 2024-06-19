@@ -12,7 +12,16 @@
         <entry key="ac-message" />
         <entry key="ac-mq" />
         <entry key="ana_test" />
-        <entry key="comprehensive-service" />
+        <entry key="comprehensive-service">
+          <value>
+            <map />
+          </value>
+        </entry>
+        <entry key="course">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="data-forward_new" />
         <entry key="dataTransfer" />
         <entry key="deploymini_new" />
@@ -22,11 +31,7 @@
         <entry key="integrate-service" />
         <entry key="leetcode" />
         <entry key="my_python" />
-        <entry key="shopxx_miniprogram_heryoos">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="shopxx_miniprogram_heryoos" />
         <entry key="sse" />
         <entry key="unique-code" />
         <entry key="yshopmall" />
